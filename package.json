@@ -1,0 +1,23 @@
+{
+  "name": "stream",
+  "version": "0.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Nelsondiaz/stream-radio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nelsondiaz/stream-radio/issues"
+  },
+  "homepage": "https://github.com/Nelsondiaz/stream-radio",
+  "dependencies": {
+    "radio-stream": "0.0.1",
+    "http": "0.0.0"
+  }
+}
